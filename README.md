@@ -44,7 +44,7 @@ Users can filter and interact with the data to uncover patterns, trends, and per
 
 ## 📁 Deliverables
 
-- `Dashboard.pbix`: The Power BI file containing the full dashboard.
+- `Week_26_Homework.pbix`: The Power BI file containing the full dashboard.
 - All calculated columns and measures are documented within the file.
 - Visual layout optimized for clarity, comparison, and storytelling.
 
@@ -62,7 +62,7 @@ Users can filter and interact with the data to uncover patterns, trends, and per
 
 ## 🚀 Getting Started
 
-1. Open the `Dashboard.pbix` file in **Power BI Desktop**.
+1. Open the `Week_26_Homework.pbix` file in **Power BI Desktop**.
 2. Explore the pages and interact with the filters.
 3. Review the DAX code by selecting fields under the "Data" or "Model" views.
 
